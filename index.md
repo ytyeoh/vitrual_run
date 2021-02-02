@@ -26,10 +26,6 @@ Any app as long as can track step/walking/running like
 
 
   
-### suggested flow
-1. Since no need payment just need a page to register.
-2. Use app to run and screen shot result
-3. submit print screen for checking
 
 
 ### Challenge
