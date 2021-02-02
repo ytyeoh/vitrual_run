@@ -5,3 +5,18 @@
 from https://www.jomrun.com/contact <br>
 #### How do I submit my results? <br>
 You can submit your results to the email provided on the event details page. Do note that as the virtual runs on our platform may be organized by different organizers, the email address may differ as well.
+
+
+
+from https://www.facebook.com/rimau.running/posts/1592624750925454 <br>
+#### detail about participant
+register and collect paymetn via 3rd praty portal, then submit reuslt in print screen.
+
+
+## Summmary 
+Any app as long as can track step/walking/running like 
+  • Nike apps - David Tan research 
+  • Zoom Run - David Chen research
+  • Garmin apps - anyone can do research ?
+  • Strava - anyone can do research ?
+  • Relive - anyone can do research ?
