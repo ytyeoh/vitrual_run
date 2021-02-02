@@ -20,6 +20,7 @@ Any app as long as can track step/walking/running like
   - Garmin apps 
   - Strava 
   - Relive 
+  
 ### suggested flow
 1. Since no need payment just need a page to register.
 2. Use app to run and screen shot result
