@@ -21,7 +21,6 @@ Any app as long as can track step/walking/running like
   - Garmin apps 
   - Strava 
   - Relive 
-------
 
 
 
