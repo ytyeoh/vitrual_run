@@ -15,8 +15,18 @@ register and collect paymetn via 3rd praty portal, then submit reuslt in print s
 
 ## Summmary 
 Any app as long as can track step/walking/running like 
-  • Nike apps - David Tan research 
-  • Zoom Run - David Chen research
-  • Garmin apps - anyone can do research ?
-  • Strava - anyone can do research ?
-  • Relive - anyone can do research ?
+  - Nike apps 
+  - Zoom Run 
+  - Garmin apps 
+  - Strava 
+  - Relive 
+### suggested flow
+1. Since no need payment just need a page to register.
+2. Use app to run and screen shot result
+3. submit print screen for checking
+
+
+### Challenge
+1. Need a lot of man power cross check, unless got system like python to read image result.
+2. Update data and checking via human after submission.
+3. 
